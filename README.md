@@ -1,20 +1,11 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration
-
-## Building
-...
-
-## Troubleshooting
-...
+Домашнее задание к занятию 8.3: JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
 * Arsen Girinov - [arsengir](https://github.com/arsengir)
-
-## Acknowledgments
-...
 
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
